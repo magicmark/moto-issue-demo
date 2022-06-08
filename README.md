@@ -2,10 +2,12 @@
 
 ### Repro instructions 
 
-- `git clone https://github.com/magicmark/moto-issue-demo.git`
-- `cd moto-issue-demo`
-- `poetry install`
-- `poetry run pytest -vvv`
+```bash
+$ git clone https://github.com/magicmark/moto-issue-demo.git
+$ cd moto-issue-demo
+$ poetry install
+$ poetry run pytest -vvv
+```
 
 ### Output
 
